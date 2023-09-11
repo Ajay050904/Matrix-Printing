@@ -15,8 +15,8 @@ import java.util.Scanner;
 * ********
 			1       
   			  5     
-    			9   
-      			  8 
+    			    9   
+      			      8 
 */
 
 public class DisplayOnlyPrimaryDiagonal {
@@ -54,6 +54,6 @@ public class DisplayOnlyPrimaryDiagonal {
 /*
  * O(1) read as bigo of 1-
  * ***********************
- * 							// time-complexity : O(m*n)
-						    // space complexity : O(1) 						
+ * 			   // time-complexity : O(m*n)
+			   // space complexity : O(1) 						
  */
