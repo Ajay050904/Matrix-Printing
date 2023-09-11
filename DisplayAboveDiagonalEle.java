@@ -49,8 +49,8 @@ public class DisplayAboveDiagonalEle {
 /*
  * O(1) read as bigo of 1-
  * ***********************
- * 							// time-complexity : O(m*n)
-						    // space complexity : O(1) 						
+ * 			   // time-complexity : O(m*n)
+			   // space complexity : O(1) 						
  */
 
 
