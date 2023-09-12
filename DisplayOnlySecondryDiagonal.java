@@ -14,7 +14,7 @@ import java.util.Scanner;
 * Output -
 * ********
 			      5 
-    			6   
+    			    6   
   			  8     
 			4     
 */
@@ -54,7 +54,7 @@ public class DisplayOnlySecondryDiagonal {
 /*
  * O(1) read as bigo of 1-
  * ***********************
- * 							// time-complexity : O(m*n)
-						    // space complexity : O(1) 						
+ * 			   // time-complexity : O(m*n)
+               		   // space complexity : O(1) 						
  */
 
